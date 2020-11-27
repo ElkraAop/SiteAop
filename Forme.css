@@ -34,7 +34,7 @@ align-items: stretch;
 	position: relative;
 	height: 80%;
 	width: 100%;
-	top: 9%;
+	top: 25%;
 
 	/*utilisation flexbox pour aligner les item de la page d'aceuil*/
 	display: flex;
